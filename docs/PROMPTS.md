@@ -12,4 +12,5 @@ Neste projeto, a LLM é utilizada em três momentos cruciais para garantir a efi
 
 ## 3. Geração de Insight para o Gestor
 **Utilização:** Para criar o resumo que aparece no Dashboard do Lovable.
+> "Crie um dashboard administrativo para um Cartório com um banner de status que muda de cor (verde para normal, vermelho para crítico) com base em alertas de IA sobre queda do site."
 > "Com base nas últimas 10 reclamações críticas, gere um resumo de duas linhas para o Oficial do Cartório explicando qual a provável causa raiz da instabilidade técnica."
