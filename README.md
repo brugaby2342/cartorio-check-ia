@@ -76,6 +76,10 @@ Abra o link do protótipo no **Lovable** para ver a interface final que o Oficia
 
 ---
 
+Consulte a [Documentação Técnica] para detalhes sobre a implementação da IA.
+
+---
+
 **Desenvolvido por Gabriela R. Sartor** 
 
 *Estudante de IA e Automação Digital na UniFECAF e Rocketseat | Escrevente de Registro de Imóveis*
