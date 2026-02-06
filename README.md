@@ -40,6 +40,7 @@ O projeto foi planejado para um ciclo de 3 meses:
 * **Miro:** Canvas de Visão, Roadmap Visual e Matriz de Riscos.
 * **Notion:** MVP e Documentação.
 * **Lovable.dev:** Prototipagem de alta fidelidade (Frontend).
+* **IA Generativa:** Para ajudar a refinar ideias, sugerir itens de backlog e prever riscos. Para escrever as instruções que vão dentro do código ou da automação, pois ela será o "cérebro" do **Cartório-Check IA**.
 
 ---
 
@@ -48,6 +49,23 @@ O projeto prioriza a segurança jurídica do ambiente extrajudicial:
 1.  **Segurança:** Anonimização obrigatória para proteção de nomes e matrículas de imóveis.
 2.  **Confiabilidade:** Implementação de limiares de alerta para evitar falsos positivos da IA.
 3.  **Ética:** Modelo *Human-in-the-loop*, mantendo o escrevente como validador final da informação.
+
+---
+
+## 🚀 Instruções de Uso e Navegação
+
+Como este é um projeto de planejamento estratégico e prototipagem, siga os passos abaixo para explorar a solução completa:
+
+### 1. Entendendo a Estratégia (Miro)
+Comece pelo **Canvas de Visão** e o **Roadmap** no Miro. Eles estabelecem o "porquê" do projeto e como ele será executado de fevereiro a abril de 2026.
+
+### 2. Explorando as Regras de Negócio (Notion)
+Acesse a **Documentação no Notion** para visualizar o Backlog priorizado (MoSCoW) e a Matriz de Riscos.
+
+Observação: o motor de anonimização foi colocado como prioridade máxima (**Must Have**) para garantir a conformidade com a LGPD.
+
+### 3. Visualizando o Produto (Lovable)
+Abra o link do protótipo no **Lovable** para ver a interface final que o Oficial de Registro utilizaria.
 
 ---
 
