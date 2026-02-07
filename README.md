@@ -30,7 +30,7 @@ O escopo foi definido utilizando a técnica **MoSCoW** para garantir entrega de 
 ## 📅 Roadmap Estratégico (2026)
 O projeto foi planejado para um ciclo de 3 meses:
 
-* **Fevereiro (Fase 1):** Diagnóstico de processos no **Miro** e estruturação do backlog no **Notion**.
+* **Fevereiro (Fase 1):** Diagnóstico de processos no **Miro** e **Notion**.
 * **Março (Fase 2):** Prototipagem da interface no **Lovable** e engenharia de prompts de IA.
 * **Abril (Fase 3):** Refinamento da experiência do usuário e validação do fluxo de dados.
 
@@ -38,7 +38,7 @@ O projeto foi planejado para um ciclo de 3 meses:
 
 ## 🛠️ Ferramentas Utilizadas
 * **Miro:** Canvas de Visão, Roadmap Visual e Matriz de Riscos.
-* **Notion:** MVP e Documentação.
+* **Notion:** MVP.
 * **Lovable.dev:** Prototipagem de alta fidelidade (Frontend).
 * **IA Generativa:** Para ajudar a refinar ideias, sugerir itens de backlog e prever riscos. Para escrever as instruções que vão dentro do código ou da automação, pois ela será o "cérebro" do **Cartório-Check IA**.
 
@@ -56,23 +56,20 @@ O projeto prioriza a segurança jurídica do ambiente extrajudicial:
 
 Como este é um projeto de planejamento estratégico e prototipagem, siga os passos abaixo para explorar a solução completa:
 
-### 1. Entendendo a Estratégia (Miro)
-Comece pelo **Canvas de Visão** e o **Roadmap** no Miro. Eles estabelecem o "porquê" do projeto e como ele será executado de fevereiro a abril de 2026.
+### 1. Entendendo a Estratégia
+Comece pelo **Canvas de Visão**, **Roadmap** e **Matriz de Risco**, que estabelecem o "porquê" do projeto e como ele será executado de fevereiro a abril de 2026.
 
-### 2. Explorando as Regras de Negócio (Notion)
-Acesse a **Documentação no Notion** para visualizar o Backlog priorizado (MoSCoW) e a Matriz de Riscos.
+### 2. Explorando as Regras de Negócio
+Acesse **MVP** para visualizar o Backlog priorizado (MoSCoW).
 
-Observação: o motor de anonimização foi colocado como prioridade máxima (**Must Have**) para garantir a conformidade com a LGPD.
-
-### 3. Visualizando o Produto (Lovable)
+### 3. Visualizando o Produto
 Abra o link do protótipo no **Lovable** para ver a interface final que o Oficial de Registro utilizaria.
 
 ---
 
 ## 📁 Artefatos do Projeto
 * [Link do Protótipo no Lovable](#)
-* [Quadro do Roadmap no Miro](#)
-* [Documentação no Notion](#)
+* [Prints](#)
 
 ---
 
