@@ -73,7 +73,7 @@ Abra o link do protótipo no **Lovable** para ver a interface final que o Oficia
 
 ---
 
-Consulte a [Documentação Técnica] para detalhes sobre a implementação da IA.
+Consulte a [Documentação Técnica](./docs/PROMPTS.md) para detalhes sobre a implementação da IA.
 
 ---
 
