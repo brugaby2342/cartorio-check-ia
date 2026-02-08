@@ -19,11 +19,10 @@ Este trabalho faz parte da disciplina de **Fundamentos de Gestão de Projetos** 
 ## 🚀 Planejamento do MVP (Mínimo Produto Viável)
 O escopo foi definido utilizando a técnica **MoSCoW** para garantir entrega de valor imediata com baixo risco técnico:
 
-### **Must Have (Obrigatório)**
-- [x] **Motor de Anonimização:** Tratamento de dados sensíveis (LGPD) antes do processamento por IA.
-- [x] **Classificador de Crise:** Engine de IA para identificação do padrão "Site Inacessível".
-- [x] **Dashboard de Status:** Interface visual (Protótipo Lovable) para monitoramento em tempo real.
-- [x] **Alerta Estratégico:** Notificação visual imediata para a diretoria.
+- **Motor de Anonimização (Must Have):** Tratamento de dados sensíveis (LGPD) antes do processamento por IA.
+- **Relatório de Frequência (Should Have):** Visualização de quantas vezes o alerta de "site caiu" foi acionado no período.
+- **Histórico de Logs (Could Have):** Registro das ocorrências para consulta posterior em auditorias de produtividade. 
+- **Automação de Reparo (Won't Have):** O sistema monitora e avisa, mas não executa comandos de TI para reiniciar servidores.
 
 ---
 
@@ -68,8 +67,19 @@ Abra o link do protótipo no **Lovable** para ver a interface final que o Oficia
 ---
 
 ## 📁 Artefatos do Projeto
-* [Link do Protótipo no Lovable](#)
-* [Prints](#)
+
+<img width="741" height="738" alt="Visão Produto" src="https://github.com/user-attachments/assets/43c4dff2-7355-4193-9fa0-7b8fcfb04e75" />
+
+<img width="965" height="888" alt="MVP Notion" src="https://github.com/user-attachments/assets/651949cd-59b2-4369-a1f3-6c8c0029525b" />
+
+<img width="841" height="725" alt="Roadmap" src="https://github.com/user-attachments/assets/c9754c96-c24c-41c6-a7a5-c3b5accc1faa" />
+
+<img width="1059" height="715" alt="Matriz de Risco" src="https://github.com/user-attachments/assets/ae0694b6-aff9-4e5f-a2b1-0752958e7597" />
+
+<img width="1075" height="685" alt="Matriz de Risco-Tabela" src="https://github.com/user-attachments/assets/840dbc82-0f45-4ca9-a55a-34f92387ed4d" />
+
+* Protótipo no Lovable](#)
+
 
 ---
 
