@@ -78,8 +78,8 @@ Abra o link do protótipo no **Lovable** para ver a interface final que o Oficia
 
 <img width="1075" height="685" alt="Matriz de Risco-Tabela" src="https://github.com/user-attachments/assets/840dbc82-0f45-4ca9-a55a-34f92387ed4d" />
 
-* Protótipo no Lovable](#)
-
+[Protótipo no Lovable](https://cartoriocheck-ia.lovable.app)
+  
 
 ---
 
