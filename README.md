@@ -73,7 +73,7 @@ O projeto prioriza a segurança jurídica do ambiente extrajudicial:
 
 <img width="965" height="888" alt="MVP Notion" src="https://github.com/user-attachments/assets/651949cd-59b2-4369-a1f3-6c8c0029525b" />
 
-<img width="841" height="725" alt="Roadmap" src="https://github.com/user-attachments/assets/c9754c96-c24c-41c6-a7a5-c3b5accc1faa" />
+<img width="970" height="764" alt="Roadmap" src="https://github.com/user-attachments/assets/ff66a6c1-30c8-40d2-bc5d-8546b907d007" />
 
 <img width="1059" height="715" alt="Matriz de Risco" src="https://github.com/user-attachments/assets/ae0694b6-aff9-4e5f-a2b1-0752958e7597" />
 
