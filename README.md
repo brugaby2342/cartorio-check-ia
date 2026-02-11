@@ -69,15 +69,32 @@ O projeto prioriza a segurança jurídica do ambiente extrajudicial:
 
 ## 📁 Artefatos do Projeto
 
+
 <img width="741" height="738" alt="Visão Produto" src="https://github.com/user-attachments/assets/43c4dff2-7355-4193-9fa0-7b8fcfb04e75" />
+
+Visão do Produto
+
 
 <img width="965" height="888" alt="MVP Notion" src="https://github.com/user-attachments/assets/651949cd-59b2-4369-a1f3-6c8c0029525b" />
 
+MVP
+
+
 <img width="970" height="764" alt="Roadmap" src="https://github.com/user-attachments/assets/ff66a6c1-30c8-40d2-bc5d-8546b907d007" />
+
+Roadmap
+
+
+<img width="1075" height="685" alt="Matriz de Risco-Tabela" src="https://github.com/user-attachments/assets/840dbc82-0f45-4ca9-a55a-34f92387ed4d" />
+
+Matriz de Risco - Tabela
+
 
 <img width="1059" height="715" alt="Matriz de Risco" src="https://github.com/user-attachments/assets/ae0694b6-aff9-4e5f-a2b1-0752958e7597" />
 
-<img width="1075" height="685" alt="Matriz de Risco-Tabela" src="https://github.com/user-attachments/assets/840dbc82-0f45-4ca9-a55a-34f92387ed4d" />
+Matriz de Risco
+
+
 
 [Protótipo no Lovable](https://cartoriocheck-ia.lovable.app)
   
